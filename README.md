@@ -13,6 +13,6 @@ Our project was written as a Python script that runs on startup. We used the ‘
 
 __The Hardware__
 
-The hardware for the Pi involved attaching the pins from the Pi onto a breadboard, and then constructing several circuits in parallel, with inputs going into specific pins on the Pi, so we could identify them in our code. Each of these circuits used a button which was connected to ground in such a way that whenever the button was pressed, the input for that part of the circuit would be grounded. We could then figure out what a user's input was based on which input had 0V as its value.
+The hardware for the Pi involved attaching the pins from the Pi onto a breadboard, and then constructing several circuits in parallel, with inputs going into specific pins on the Pi, so we could identify them in our code. Each of these circuits used a button which was connected to ground in such a way that whenever the button was pressed, the input for that part of the circuit would be grounded. We could then figure out what a user's input was based on which input had 0V as its value. The final product is shown below.
 
- 
+![Alt text] (Pi_Image.jpg) 
